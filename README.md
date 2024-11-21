@@ -2,11 +2,10 @@
 - 👀 I’m interested in Developing web & AI
 - 🌱 I’m currently learning ML(AI) & DT
 - 
-- 💞️ I’m looking to collaborate on ML and Web
+- 💞️ I’m looking to collaborate on ML and Web Projects
 - 
 - 📫 How to reach me
 - eamil: cabdooo19@gmail.com
-- whatsApp-Number:+25143921921
 - 😄 Pronouns: Eng-Halim
 - ⚡ Fun fact: BSc degree in Computer Science 
 
